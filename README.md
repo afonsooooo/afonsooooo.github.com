@@ -1,4 +1,4 @@
 afonsooooo.github.com
 =====================
 
-Blog.
+This is a test blog.
